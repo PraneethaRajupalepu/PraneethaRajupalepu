@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on working on data science related projects
 - 📫 How to reach me ... via LinkedIn https://www.linkedin.com/in/praneetha-raj/ or pranitha.724@gmail.com
 
-<!---
 Previously i worked on certain Data science projects.
 
 I addressed the problem of ATR (Automatic Target Recognition) in airborne sensor systems involving SAR sensors, 
@@ -20,4 +19,3 @@ icort.in/pdf/IC-Final-2021.pdf
 A hybrid framework for detection of diseases in apple and tomato crops with deep feed forward neural network, 
 International Journal of Sustainable Agricultural Management and Informatics. 
 https://www.inderscienceonline.com/doi/abs/10.1504/IJSAMI.2018.099222
---->
