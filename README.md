@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Machine Learning, Data Science, Computer Vision
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on working on data science related projects
-- 📫 How to reach me ... via LinkedIn https://www.linkedin.com/in/praneetha-raj/ or pranitha.724@gmail.com
+- 📫 How to reach me ... via LinkedIn https://www.linkedin.com/in/praneetha-raj/ or via Gmail pranitha.724@gmail.com
 
 Previously i worked on certain Data science projects.
 
